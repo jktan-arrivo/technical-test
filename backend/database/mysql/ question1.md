@@ -1,4 +1,4 @@
-# EMPLOYEE TABLE
+# EMPLOYEES TABLE
 
 | ID | Name | Department | Salary | Status |
 |---|---|---|---|---|
@@ -17,3 +17,7 @@
 | 13  | Afifah | IT | 28000 | active |
 | 14  | Afifi | IT | 2000 | inactive |
 | 15  | Prusse | Analytic | 21000 | inactive |
+
+
+**TASK:**
+Write the SQL query to get the forth maximum salary of an employee from employees table above.
