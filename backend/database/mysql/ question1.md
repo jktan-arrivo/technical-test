@@ -20,4 +20,4 @@
 
 
 **TASK:**
-\Write the SQL query to get the **forth** maximum salary of an **IT** department's employee who is currently working (**active** in status) from employees table above.
+<br />Write the SQL query to get the **forth** maximum salary of an **IT** department's employee who is currently working (**active** in status) from employees table above.
