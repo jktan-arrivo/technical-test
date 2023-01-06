@@ -9,8 +9,11 @@
 | 5  | Martin | IT | 90000 | active |
 | 6  | Marcus | IT | 12500 | active |
 | 7  | Ahmad | IT | 15000 | active |
-| 8  | Jason | IT | 15000 | active |
-| 9  | Mohie | IT | 20000 | active |
-| 10  | Messi | Marketing | 10000 | active |
-| 11  | Ronaldo | Analytic | 15000 | active |
+| 8  | Jason | IT | 15000 | inactive |
+| 9  | Mohie | IT | 15000 | active |
+| 10  | Messi | Marketing | 10000 | inactive |
+| 11  | Ronaldo | Analytic | 15000 | inactive |
 | 12  | Steven | IT | 18000 | active |
+| 13  | Afifah | IT | 28000 | active |
+| 14  | Afifi | IT | 2000 | inactive |
+| 15  | Prusse | Analytic | 21000 | inactive |
