@@ -14,7 +14,7 @@ const products = [
     
     {
 		name:'item 3', 
-		value:10000, 
+		priee:10000, 
 		category: 'category 3'
     },
     
