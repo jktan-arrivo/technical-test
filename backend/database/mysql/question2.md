@@ -20,4 +20,4 @@
 
 
 **TASK:**
-Write the SQL query to removes the duplicate ids from the table from employees table above.
+Write the SQL query to remove the duplicate ids from the table from employees table above.
